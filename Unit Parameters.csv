@@ -1,0 +1,2 @@
+Date,Time,Unit ID,N,P,K,Natural Light (Hours),Artificial Light (Hours),Uptime (Hours),Watering Duration Uptime (Minutes),Watering Interval Uptime (Minutes),Downtime (Hours),Watering Duration Downtime (Minutes),Watering Interval Downtime (Minutes),Plant Count 1,Plant Type 1,Medium
+8/21/2024,8:14 AM,"""00""",20,20,20,See Sun Data,12,12,15,45,12,15,105,20,Basil,Peat
