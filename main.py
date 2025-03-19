@@ -1,11 +1,12 @@
 from fastapi import FastAPI
 import pandas as pd
 import requests
+import io
 
 app = FastAPI()
 
 # GitHub raw file URLs (replace 'your-username' and 'repo-name')
-GITHUB_BASE_URL = "https://raw.githubusercontent.com/luketam/atlas-dashboard-backend/main/"
+GITHUB_BASE_URL = "https://raw.githubusercontent.com/your-username/atlas-dashboard-backend/main/"
 
 CSV_FILES = {
     "plant_growth": "Plant%20Growth.csv",
@@ -19,7 +20,7 @@ def fetch_csv_data(file_key):
     url = GITHUB_BASE_URL + CSV_FILES[file_key]
     response = requests.get(url)
     response.raise_for_status()
-    return pd.read_csv(pd.compat.StringIO(response.text))
+    return pd.read_csv(io.StringIO(response.text))
 
 @app.get("/api/plant-growth")
 def get_plant_growth():
