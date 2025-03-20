@@ -6,7 +6,7 @@ import io
 app = FastAPI()
 
 # GitHub raw file URLs (replace 'your-username' and 'repo-name')
-GITHUB_BASE_URL = "https://raw.githubusercontent.com/your-username/atlas-dashboard-backend/main/"
+GITHUB_BASE_URL = "https://raw.githubusercontent.com/luketam/atlas-dashboard-backend/main/"
 
 CSV_FILES = {
     "plant_growth": "Plant%20Growth.csv",
