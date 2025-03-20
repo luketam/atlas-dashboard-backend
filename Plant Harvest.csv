@@ -1,21 +1,21 @@
-Date,Time,Level,Side,Yield (g),Roots (mm),"Netcup, Plug, Roots (g)",Brix,Brix Line,Brix Color,Flavor
-9/23/24,6:25 PM,1,room,23,137.9,40,3,very blurry,pale green,
-9/23/24,6:27 PM,1,window,25,71,45,4.5,extremely blurry,beige,
-9/23/24,6:29 PM,2,room,17,90.5,40,3,very blurry,gray,
-9/23/24,6:30 PM,2,window,55,161.925,51,3.5,extremely blurry,light green,
-9/23/24,6:33 PM,3,room,45,187.325,46,4.5,extremely blurry,light green/tan,
-9/23/24,6:35 PM,3,window,30,192.0875,42,5,extremely blurry,light green/tan,
-9/23/24,6:37 PM,4,room,25,124.9,43,6,nonexistant,gray,
-9/23/24,6:40 PM,4,window,45,133,50,5,almost nonexistant,pale green,"peppery, eugenol, numbing, spearmint"
-9/23/24,6:43 PM,5,room,62,171.45,49,5,nonexistant,amber,"eugenol, bitter"
-9/23/24,6:48 PM,5,window,37,117,50,5,nonexistant,gray,"minty, cooling"
-9/23/24,6:55 PM,6,room,24,83.8,43,5,nonexistant,pale green/tan,"eugenol, bitter, minty"
-9/23/24,6:58 PM,6,window,63,171.704,55,3.5,very blurry,pale green,"very bitter, eugenol, black tea"
-9/23/24,7:02 PM,7,room,38,113.8,42,3.75,blurry,light green,"savory, vegetal, slight spicy aftertaste"
-9/23/24,7:06 PM,7,window,28,109.9,49,5,almost nonexistant,tan/very pale orange,"savory, bitter, eugenol, minty, numbing, vegetal"
-9/23/24,7:10 PM,8,room,32,140.3,39,4,almost nonexistant,light green,"eugenol, bitter"
-9/23/24,7:13 PM,8,window,51,182.5625,54,4,fairly blurry,pale beige,"savory, vegetal"
-9/23/24,7:17 PM,9,room,23,203.2,39,3.5,almost nonexistant,light green,"savory, eugenol, grassy, spearmint"
-9/23/24,7:19 PM,9,window,38,227.80625,44,4,very blurry,light green/tan,"slightly bitter, vegetal, numbing, not much flavor"
-9/23/24,7:23 PM,10,room,29,93.7,41,4,blurry,gray,"vegetal, eugenol, slightly bitter"
-9/23/24,7:26 PM,10,window,43,113.9,44,4,blurry,beige,"savory, vegetal, weak flavor"
+Date,Time,Level,Side,Yield (Grams),Roots (Millimeters),"Net Cup, Plug, Roots (Grams)",Brix,Brix Line,Brix Color,Flavor
+9/23/2024,6:25 PM,1,room,23,137.9,40,3,very blurry,pale green,
+9/23/2024,6:27 PM,1,window,25,71,45,4.5,extremely blurry,beige,
+9/23/2024,6:29 PM,2,room,17,90.5,40,3,very blurry,gray,
+9/23/2024,6:30 PM,2,window,55,161.925,51,3.5,extremely blurry,light green,
+9/23/2024,6:33 PM,3,room,45,187.325,46,4.5,extremely blurry,light green/tan,
+9/23/2024,6:35 PM,3,window,30,192.0875,42,5,extremely blurry,light green/tan,
+9/23/2024,6:37 PM,4,room,25,124.9,43,6,nonexistant,gray,
+9/23/2024,6:40 PM,4,window,45,133,50,5,almost nonexistant,pale green,"peppery, eugenol, numbing, spearmint"
+9/23/2024,6:43 PM,5,room,62,171.45,49,5,nonexistant,amber,"eugenol, bitter"
+9/23/2024,6:48 PM,5,window,37,117,50,5,nonexistant,gray,"minty, cooling"
+9/23/2024,6:55 PM,6,room,24,83.8,43,5,nonexistant,pale green/tan,"eugenol, bitter, minty"
+9/23/2024,6:58 PM,6,window,63,171.704,55,3.5,very blurry,pale green,"very bitter, eugenol, black tea"
+9/23/2024,7:02 PM,7,room,38,113.8,42,3.75,blurry,light green,"savory, vegetal, slight spicy aftertaste"
+9/23/2024,7:06 PM,7,window,28,109.9,49,5,almost nonexistant,tan/very pale orange,"savory, bitter, eugenol, minty, numbing, vegetal"
+9/23/2024,7:10 PM,8,room,32,140.3,39,4,almost nonexistant,light green,"eugenol, bitter"
+9/23/2024,7:13 PM,8,window,51,182.5625,54,4,fairly blurry,pale beige,"savory, vegetal"
+9/23/2024,7:17 PM,9,room,23,203.2,39,3.5,almost nonexistant,light green,"savory, eugenol, grassy, spearmint"
+9/23/2024,7:19 PM,9,window,38,227.80625,44,4,very blurry,light green/tan,"slightly bitter, vegetal, numbing, not much flavor"
+9/23/2024,7:23 PM,10,room,29,93.7,41,4,blurry,gray,"vegetal, eugenol, slightly bitter"
+9/23/2024,7:26 PM,10,window,43,113.9,44,4,blurry,beige,"savory, vegetal, weak flavor"
