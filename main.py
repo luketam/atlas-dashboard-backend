@@ -25,7 +25,6 @@ def fetch_csv_data(file_key):
 @app.get("/api/plant-growth")
 def get_plant_growth():
     plant_growth = fetch_csv_data("plant_growth")
-    plant_growth["date"] = pd.to_datetime(plant_growth["date"]).dt.strftime('%Y-%m-%d')
     return plant_growth.to_dict(orient="records")
 
 @app.get("/api/plant-harvest")
